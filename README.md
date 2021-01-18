@@ -4,6 +4,7 @@
 
 ## Purpose
     Build an active daily planer than changes with time. With the ablilty to edit and change events.
+    Wasn't able to get the local storage to work.
 
 ## Built With
     Html
@@ -11,7 +12,7 @@
     JavaScript
     Jqurry
     Moment.js
-    Bootsrap
+    Bootstrap
 
 ## Website
     https://anthonyz28.github.io/DailyPlanner/
